@@ -1,4 +1,5 @@
 Android Social Network app
+
 I. Technology
 Frontend: Android Studio
 Backend: Nodejs
