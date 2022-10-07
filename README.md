@@ -1,9 +1,9 @@
 Android Social Network app
 
 I. Technology
-Frontend: Android Studio
-Backend: Nodejs
-Network: SocketIO, RestApi, HTTPS
+- Frontend: Android Studio
+- Backend: Nodejs
+- Network: SocketIO, RestApi, HTTPS
 
 II. Core Features:
 - Account/profile editing
